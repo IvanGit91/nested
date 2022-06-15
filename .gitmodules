@@ -1,0 +1,3 @@
+[submodule "nested2"]
+	path = nested2
+	url = git@github.com:IvanGit91/nested2.git
